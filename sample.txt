@@ -1,1 +1,15 @@
 this is a sample text file
+Array:
+  Easy:
+    1. asdasd
+    2. asdasd
+    3. ada
+  Medium:
+  
+  Difficult:
+  
+Queue:
+  Easy:
+    1. asda
+    2. sdad
+    
